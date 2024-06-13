@@ -1,0 +1,608 @@
+{
+  "code": 200,
+  "data": {
+    "total": 134.4,
+    "subtotal": 134.4,
+    "currency": {
+      "id": 23,
+      "name": {
+        "default": "RON",
+        "display": "Lei"
+      }
+    },
+    "discounts": 0,
+    "discounts_vouchers": 0,
+    "discounts_loyalty": 0,
+    "shipping_tax": 0,
+    "shipping_tax_delivery": 0,
+    "shipping_tax_payment_additional": 0,
+    "shipping_tax_before_discount": 11.99,
+    "vendor_cart": [
+      {
+        "vendor_lines": [
+          {
+            "line_id": "181565473",
+            "line_total": 134.4,
+            "line_discount": 0,
+            "line_original": 134.4,
+            "line_quantity": 3,
+            "line_structure": "main",
+            "pricing_info": {
+              "current": 134.4,
+              "initial": 134.4,
+              "is_min": false,
+              "is_max": false,
+              "legal": 0,
+              "prefix": " ",
+              "suffix": " Lei",
+              "is_visible": true,
+              "discount": {
+                "type": null,
+                "absolute": 0,
+                "percent": 0,
+                "is_special": false,
+                "is_visible": false,
+                "is_restricted_from_view": true,
+                "is_max": false
+              },
+              "currency": {
+                "id": 23,
+                "name": {
+                  "default": "RON",
+                  "display": "Lei"
+                }
+              },
+              "recommended_retail_price": {
+                "amount": 0,
+                "is_visible": false
+              },
+              "lowest_price_30_days": {
+                "amount": 0,
+                "is_visible": false
+              }
+            },
+            "line_single": {
+              "item_id": "181565473",
+              "product_id": "72025766",
+              "name": "Puzzle Trefl 3 in 1 - Gabbys Dollhouse, Activitatile Lui Gabby",
+              "category": "Puzzle",
+              "scm_super_category": {
+                "id": 1521,
+                "name": "Toys"
+              },
+              "brand": "Trefl",
+              "unit_price": 44.8,
+              "price": 134.4,
+              "pricing_info": {
+                "current": 44.8,
+                "initial": 44.8,
+                "is_min": false,
+                "is_max": false,
+                "legal": 0,
+                "prefix": " ",
+                "suffix": " Lei",
+                "is_visible": true,
+                "discount": {
+                  "type": "percent",
+                  "absolute": 0,
+                  "percent": 0,
+                  "is_special": false,
+                  "is_visible": false,
+                  "is_restricted_from_view": true,
+                  "is_max": false
+                },
+                "currency": {
+                  "id": 23,
+                  "name": {
+                    "default": "RON",
+                    "display": "Lei"
+                  }
+                },
+                "recommended_retail_price": {
+                  "amount": 0,
+                  "is_visible": false
+                },
+                "lowest_price_30_days": {
+                  "amount": 0,
+                  "is_visible": false
+                }
+              },
+              "is_donation": false,
+              "availability": "În stoc",
+              "image": "https://s13emagst.akamaized.net/products/72026/72025766/images/res_cd8568fa28f382cbdbd0e8eaccbf3e2a.jpg?width=120&height=120&hash=8061497AD324C75542F78BD14ECF572E",
+              "warranty": {
+                "individual": {
+                  "period": 0,
+                  "text": "fără garanţie"
+                },
+                "judicial": null
+              },
+              "short_description": "Puzzle Trefl 3 in 1 - Gabbys Dollhouse, Activitatile Lui Gabby",
+              "upsell_extra_warranties": [],
+              "quantity": 3,
+              "block_quantity": false,
+              "block_delete": false,
+              "has_accessories": false,
+              "part_number_key": "DR1LWFYBM",
+              "has_buyback_v2": false,
+              "is_buyback_checked": false,
+              "allow_favorites": true,
+              "allow_feedback": true,
+              "services_list": [],
+              "gifts": [],
+              "warranties": []
+            },
+            "bundle_name": "Puzzle Trefl 3 in 1 - Gabbys Dollhouse, Activitatile Lui Gabby",
+            "line_bundle": [],
+            "line_vouchers": [],
+            "promotion_info": {
+              "message": "",
+              "promotions": []
+            },
+            "bundle_info": {
+              "title_prefix": "Pachet",
+              "has_multiplier": false,
+              "multiplier": 1,
+              "package_id": ""
+            },
+            "is_fulfilment_by_emag": false,
+            "is_full_fbe": false,
+            "is_adult_only": false,
+            "line_type": "prod",
+            "line_quantity_restriction": {
+              "min": 1,
+              "max": 8,
+              "step": 1
+            },
+            "vendor": {
+              "id": 1,
+              "name": {
+                "default": "eMAG",
+                "display": "eMAG"
+              }
+            },
+            "showroom_delivery": true,
+            "electronic_delivery": false,
+            "line_price": 44.8,
+            "wallet_information": {
+              "badge": {
+                "icon_url": "https://s13emagst.akamaized.net/layout/ro/static-upload/user-wallet-info-budget.png",
+                "description": "4 rate (fără dobândă, fără comision)"
+              },
+              "best_installment": {
+                "value": 33.6,
+                "count": 4,
+                "provider": "MyWallet",
+                "layout": {
+                  "title": "<span style=\"color: #4070FA\">rate de la <strong>33<sup><small>60</small></sup></strong> Lei / luna</span>"
+                }
+              }
+            }
+          }
+        ],
+        "vendor_name": "eMAG",
+        "vendor_id": "1",
+        "vendor_total_items": 3,
+        "vendor_total": 134.4,
+        "vendor_delivery_tax": 0,
+        "vendor_delivery_payment_additional": 0,
+        "vendor_delivery_info": "",
+        "vendor_showroom_delivery_info": "",
+        "total_before_discount": 11.99
+      }
+    ],
+    "payment_information": {
+      "wallet_payment_information": {
+        "position": 1,
+        "title": "Plata in rate cu MyWallet",
+        "description": "Alege numarul de rate",
+        "payment_methods": [
+          {
+            "is_available": true,
+            "inactive_reason": null,
+            "info": "sliceit payment",
+            "notification": "",
+            "position": 1,
+            "options": {
+              "is_new": true,
+              "terms_url": "https://s13emagst.akamaized.net/layout/ro/static-upload/tc-slice-4-ro-04-04-2023.pdf"
+            },
+            "installment_plan": {
+              "description": "Cumpără acum și plătești în 4 rate lunare egale, fără dobândă.",
+              "disclaimer": "Prima rata va fi achitata după plasarea comenzii. Asigura-te ca ai suma necesară pe cardul selectat mai jos.",
+              "items": [
+                {
+                  "date": "2024-06-13T09:52:53+03:00",
+                  "amount": 33.6
+                },
+                {
+                  "date": "2024-07-13T09:52:53+03:00",
+                  "amount": 33.6
+                },
+                {
+                  "date": "2024-08-12T09:52:53+03:00",
+                  "amount": 33.6
+                },
+                {
+                  "date": "2024-09-11T09:52:53+03:00",
+                  "amount": 33.6
+                }
+              ]
+            },
+            "disclaimer": "Prin selectarea metodei de plata “Plătește in 4 rate” ești de acord cu <a href=\"https://s13emagst.akamaized.net/layout/ro/static-upload/emag-tcs-modalitati-de-plata-30-zile-4-rate-12-09-2023.pdf\" target=\"_blank\">Termeni și condiții</a> eMAG, inclusiv debitarea directa a cardului de catre eMAG. Asigura-te ca suma necesara achitarii fiecarei rate este disponibila pe cardul selectat. ",
+            "icon": "https://s13emagst.akamaized.net/layout/ro/static-upload/heyblu-logo.svg",
+            "label": {
+              "name": "Plătește în 4 rate",
+              "short_description": "Fără dobândă, fără comision",
+              "card_description": "Alege cardul care va fi folosit pentru plata:",
+              "extra_description": "Pentru a continua, avem nevoie de următoarele informații:",
+              "notification": "Prin selectarea metodei de plată “Plătește în 4 rate egale” ești de acord cu <a href=\"%s\" target=\"_blank\">Termenii și condiții</a> eMAG, inclusiv debitarea directă a cardului de către eMAG. Asigură-te că suma necesară achitării fiecărei rate este disponibilă pe cardul selectat mai sus."
+            },
+            "name": "slice_it"
+          },
+          {
+            "is_available": false,
+            "inactive_reason": {
+              "type": "customer_not_eligible_by_expired_token",
+              "title": "Plateste in 12 rate ",
+              "message": "Salveaza un card ce nu expira inainte ca planul de rate prin MyWallet sa se finalizeze.",
+              "actions": {
+                "next": {
+                  "url": "https://www.emag.ro/user/authorizetoken ",
+                  "label": "Adauga un card de debit ",
+                  "deeplink": "emag://home "
+                }
+              }
+            },
+            "info": "sliceit_12 payment",
+            "notification": "Salveaza un card ce nu expira inainte ca planul de rate prin MyWallet sa se finalizeze.",
+            "position": 2,
+            "options": {
+              "is_new": true,
+              "terms_url": null
+            },
+            "installment_plan": {
+              "description": "Cumpara acum și plătești în 12 rate lunare.",
+              "disclaimer": "Prima rata va fi achitata după plasarea comenzii. Asigura-te ca ai suma necesară pe cardul selectat mai jos."
+            },
+            "disclaimer": "Prin selectarea metodei de plată “Plateste in 12 rate” ești de acord cu debitarea directă de către HeyBlu IFN S.A a cardului ales. Asigură-te că suma necesară achitării fiecărei rate este disponibilă pe cardul selectat mai sus. ",
+            "icon": "https://s13emagst.akamaized.net/layout/ro/static-upload/heyblu-logo.svg",
+            "kyc_text": "Dupa plasarea comenzii, va fi necesara parcurgerea unui proces de evaluare a eligibilitatii tale. ",
+            "label": {
+              "name": "Plătește în 12 rate",
+              "short_description": "Rate lunare fixe",
+              "card_description": "Alege cardul care va fi folosit pentru plata:",
+              "extra_description": "Pentru a continua, avem nevoie de următoarele informații:",
+              "notification": "Prin selectarea metodei de plată “12 rate fixe cu dobanda” ești de acord cu debitarea directă de către HeyBlu IFN S.A a cardului ales. Asigură-te că suma necesară achitării fiecărei rate este disponibilă pe cardul selectat mai sus."
+            },
+            "name": "slice_it_12"
+          },
+          {
+            "is_available": true,
+            "inactive_reason": null,
+            "info": "bnpl2 payment",
+            "notification": "",
+            "position": 3,
+            "options": {
+              "is_new": true,
+              "terms_url": "https://s13emagst.akamaized.net/layout/ro/static-upload/t-c-bnpl-ro-04-04-2023.pdf"
+            },
+            "installment_plan": {
+              "description": "Vei plati comanda in 30 de zile, la data de:",
+              "items": [
+                {
+                  "date": "2024-07-13T09:52:53+03:00",
+                  "amount": 134.4
+                }
+              ]
+            },
+            "disclaimer": "Prin selectarea metodei de plata “Plătește peste 30 de zile” ești de acord cu <a href=\"https://s13emagst.akamaized.net/layout/ro/static-upload/emag-tcs-modalitati-de-plata-30-zile-4-rate-12-09-2023.pdf \" target=\"_blank\">Termeni și condiții</a> aplicabili eMAG, inclusiv debitarea directă a cardului de către eMAG. Asigura-te ca ai bani pe cardul selectat la data debitarii. ",
+            "icon": "https://s13emagst.akamaized.net/layout/ro/static-upload/heyblu-logo.svg",
+            "label": {
+              "name": "Plătește peste 30 de zile",
+              "short_description": "Fără comisioane, fără dobândă",
+              "card_description": "Alege cardul care va fi folosit pentru plata:",
+              "extra_description": "Pentru a continua, avem nevoie de următoarele informații:",
+              "notification": "Prin selectarea metodei de plata “Plătește peste 30 de zile” ești de acord cu <a href=\"%s\" target=\"_blank\">Termeni și condiții</a> aplicabili eMAG, inclusiv debitarea directă a cardului de către eMAG. Asigura-te ca ai bani pe cardul selectat la data debitarii."
+            },
+            "name": "bnpl2"
+          }
+        ]
+      },
+      "cash": {
+        "is_available": true,
+        "inactive_reason": null,
+        "info": "Numerar sau ramburs",
+        "notification": "Plata cu cardul bancar la acest easybox nu este disponibilă. Te rugăm alege plata cu cardul online disponibilă mai sus.",
+        "position": 8,
+        "label": {
+          "name": "Card bancar la easybox",
+          "description": "Poți plăti doar cu cardul în momentul ridicării produselor."
+        }
+      },
+      "payment_order": {
+        "is_available": false,
+        "inactive_reason": null,
+        "info": "payment order",
+        "notification": "Metoda de plată OP nu este disponibilă.",
+        "position": 7,
+        "label": {
+          "name": "Ordin de plată",
+          "description": "Modalitate de plată utilizată de persoanele juridice. După plasarea comenzii, vei primi prin email factura proformă cu toate detaliile de plată."
+        }
+      },
+      "card": {
+        "is_available": true,
+        "inactive_reason": null,
+        "info": "Plata online",
+        "notification": "Produsele din coșul tău au anumite restricții de plată. Te rugăm să selectezi o altă opțiune.",
+        "position": 5,
+        "genius_disclaimer": {
+          "can_be_displayed": false
+        },
+        "label": {
+          "name": "Card de credit sau debit",
+          "description": ""
+        }
+      },
+      "bnpl2": {
+        "is_available": true,
+        "inactive_reason": null,
+        "info": "bnpl2 payment",
+        "notification": "",
+        "position": 3,
+        "options": {
+          "is_new": true,
+          "terms_url": "https://s13emagst.akamaized.net/layout/ro/static-upload/t-c-bnpl-ro-04-04-2023.pdf"
+        },
+        "installment_plan": {
+          "description": "Vei plati comanda in 30 de zile, la data de:",
+          "items": [
+            {
+              "date": "2024-07-13T09:52:53+03:00",
+              "amount": 134.4
+            }
+          ]
+        },
+        "disclaimer": "Prin selectarea metodei de plata “Plătește peste 30 de zile” ești de acord cu <a href=\"https://s13emagst.akamaized.net/layout/ro/static-upload/emag-tcs-modalitati-de-plata-30-zile-4-rate-12-09-2023.pdf \" target=\"_blank\">Termeni și condiții</a> aplicabili eMAG, inclusiv debitarea directă a cardului de către eMAG. Asigura-te ca ai bani pe cardul selectat la data debitarii. ",
+        "icon": "https://s13emagst.akamaized.net/layout/ro/static-upload/heyblu-logo.svg",
+        "label": {
+          "name": "Plătește peste 30 de zile",
+          "short_description": "Fără comisioane, fără dobândă",
+          "card_description": "Alege cardul care va fi folosit pentru plata:",
+          "extra_description": "Pentru a continua, avem nevoie de următoarele informații:",
+          "notification": "Prin selectarea metodei de plata “Plătește peste 30 de zile” ești de acord cu <a href=\"%s\" target=\"_blank\">Termeni și condiții</a> aplicabili eMAG, inclusiv debitarea directă a cardului de către eMAG. Asigura-te ca ai bani pe cardul selectat la data debitarii."
+        }
+      },
+      "slice_it": {
+        "is_available": true,
+        "inactive_reason": null,
+        "info": "sliceit payment",
+        "notification": "",
+        "position": 1,
+        "options": {
+          "is_new": true,
+          "terms_url": "https://s13emagst.akamaized.net/layout/ro/static-upload/tc-slice-4-ro-04-04-2023.pdf"
+        },
+        "installment_plan": {
+          "description": "Cumpără acum și plătești în 4 rate lunare egale, fără dobândă.",
+          "disclaimer": "Prima rata va fi achitata după plasarea comenzii. Asigura-te ca ai suma necesară pe cardul selectat mai jos.",
+          "items": [
+            {
+              "date": "2024-06-13T09:52:53+03:00",
+              "amount": 33.6
+            },
+            {
+              "date": "2024-07-13T09:52:53+03:00",
+              "amount": 33.6
+            },
+            {
+              "date": "2024-08-12T09:52:53+03:00",
+              "amount": 33.6
+            },
+            {
+              "date": "2024-09-11T09:52:53+03:00",
+              "amount": 33.6
+            }
+          ]
+        },
+        "disclaimer": "Prin selectarea metodei de plata “Plătește in 4 rate” ești de acord cu <a href=\"https://s13emagst.akamaized.net/layout/ro/static-upload/emag-tcs-modalitati-de-plata-30-zile-4-rate-12-09-2023.pdf\" target=\"_blank\">Termeni și condiții</a> eMAG, inclusiv debitarea directa a cardului de catre eMAG. Asigura-te ca suma necesara achitarii fiecarei rate este disponibila pe cardul selectat. ",
+        "icon": "https://s13emagst.akamaized.net/layout/ro/static-upload/heyblu-logo.svg",
+        "label": {
+          "name": "Plătește în 4 rate",
+          "short_description": "Fără dobândă, fără comision",
+          "card_description": "Alege cardul care va fi folosit pentru plata:",
+          "extra_description": "Pentru a continua, avem nevoie de următoarele informații:",
+          "notification": "Prin selectarea metodei de plată “Plătește în 4 rate egale” ești de acord cu <a href=\"%s\" target=\"_blank\">Termenii și condiții</a> eMAG, inclusiv debitarea directă a cardului de către eMAG. Asigură-te că suma necesară achitării fiecărei rate este disponibilă pe cardul selectat mai sus."
+        }
+      },
+      "slice_it_12": {
+        "is_available": false,
+        "inactive_reason": {
+          "type": "customer_not_eligible_by_expired_token",
+          "title": "Plateste in 12 rate ",
+          "message": "Salveaza un card ce nu expira inainte ca planul de rate prin MyWallet sa se finalizeze.",
+          "actions": {
+            "next": {
+              "url": "https://www.emag.ro/user/authorizetoken ",
+              "label": "Adauga un card de debit ",
+              "deeplink": "emag://home "
+            }
+          }
+        },
+        "info": "sliceit_12 payment",
+        "notification": "Salveaza un card ce nu expira inainte ca planul de rate prin MyWallet sa se finalizeze.",
+        "position": 2,
+        "options": {
+          "is_new": true,
+          "terms_url": null
+        },
+        "installment_plan": {
+          "description": "Cumpara acum și plătești în 12 rate lunare.",
+          "disclaimer": "Prima rata va fi achitata după plasarea comenzii. Asigura-te ca ai suma necesară pe cardul selectat mai jos."
+        },
+        "disclaimer": "Prin selectarea metodei de plată “Plateste in 12 rate” ești de acord cu debitarea directă de către HeyBlu IFN S.A a cardului ales. Asigură-te că suma necesară achitării fiecărei rate este disponibilă pe cardul selectat mai sus. ",
+        "icon": "https://s13emagst.akamaized.net/layout/ro/static-upload/heyblu-logo.svg",
+        "kyc_text": "Dupa plasarea comenzii, va fi necesara parcurgerea unui proces de evaluare a eligibilitatii tale. ",
+        "label": {
+          "name": "Plătește în 12 rate",
+          "short_description": "Rate lunare fixe",
+          "card_description": "Alege cardul care va fi folosit pentru plata:",
+          "extra_description": "Pentru a continua, avem nevoie de următoarele informații:",
+          "notification": "Prin selectarea metodei de plată “12 rate fixe cu dobanda” ești de acord cu debitarea directă de către HeyBlu IFN S.A a cardului ales. Asigură-te că suma necesară achitării fiecărei rate este disponibilă pe cardul selectat mai sus."
+        }
+      },
+      "installments": {
+        "is_available": false,
+        "inactive_reason": null,
+        "info": "payment in installments",
+        "notification": " Metoda de plată eCredit nu este disponibilă.",
+        "position": 6,
+        "options": {
+          "is_visible": true,
+          "title": "CNP",
+          "notification": "Te rugăm să introduci un CNP valid."
+        },
+        "extra": [
+          {
+            "input": "payment_rate_user_identifier",
+            "type": "text",
+            "visible": true,
+            "selected": false,
+            "required": true,
+            "notification": "Introduceti un CNP valid",
+            "label": "CNP",
+            "label_html": "CNP",
+            "url": null
+          }
+        ],
+        "label": {
+          "name": "Credit online",
+          "description": ""
+        }
+      }
+    },
+    "billing_information": {
+      "person": {
+        "is_available": true,
+        "notification": "Facturarea pentru persoana fizica nu este disponibila pentru produsele din cos."
+      },
+      "company": {
+        "is_available": true,
+        "notification": "Facturarea pentru persoana juridica nu este disponibila pentru produsele din cos."
+      },
+      "disabled_notification": "no billing methods available"
+    },
+    "delivery_information": {
+      "courier": {
+        "is_available": true,
+        "is_required": false,
+        "info": "courier delivery",
+        "notification": "courier delivery unavailable"
+      },
+      "electronic": {
+        "is_available": false,
+        "is_required": false,
+        "info": "electronic delivery",
+        "notification": "electronic delivery unavailable"
+      },
+      "personal_pickup": {
+        "is_available": true,
+        "is_required": false,
+        "info": "personal pickup delivery",
+        "notification": "Coșul tău de cumpărături conține produse care nu pot fi ridicate personal dintr-un showroom sau dintr-un punct de livrare. Te rugăm să alegi opțiunea livrare prin curier. "
+      }
+    },
+    "installments_options": [],
+    "vouchers": [],
+    "green_tax": {
+      "visible": false,
+      "label": ""
+    },
+    "save_card_data": true,
+    "delivery_notification_text": null,
+    "costs_with_genius": {
+      "total": 122.41,
+      "shipping_tax": 0,
+      "genius_discount": 11.99
+    },
+    "fx_rates": [
+      {
+        "base_currency": "RON",
+        "to_currency": "USD",
+        "rate": 0.2237,
+        "converted_total": 30.07,
+        "notification": "Total suma debitata in moneda selectata, serviciu oferit prin PayU"
+      },
+      {
+        "base_currency": "RON",
+        "to_currency": "EUR",
+        "rate": 0.207,
+        "converted_total": 27.82,
+        "notification": "Total suma debitata in moneda selectata, serviciu oferit prin PayU"
+      },
+      {
+        "base_currency": "RON",
+        "to_currency": "GBP",
+        "rate": 0.1748,
+        "converted_total": 23.49,
+        "notification": "Total suma debitata in moneda selectata, serviciu oferit prin PayU"
+      }
+    ],
+    "loyalty_points": {
+      "is_active": true,
+      "applied": 0,
+      "remaining": 0,
+      "total": 283,
+      "conversion_rate": 1
+    },
+    "display_add_donation": true,
+    "donation_values": {
+      "icon": "https://s13emagst.akamaized.net/layout/ro/static-upload/logo-noua-ne-pasa.png",
+      "title": "Donează pentru elevii în pericol de abandon școlar!",
+      "text": "Prin programul Nouă ne pasă, profesorii lucrează cu copiii în pericol de abandon școlar să recupereze materia de la clasă, pentru a-și putea continua studiile. Pentru că educația nu ar trebui să se oprească niciodată",
+      "items": [
+        {
+          "value": 5,
+          "is_main": true
+        },
+        {
+          "value": 10,
+          "is_main": true
+        },
+        {
+          "value": 20,
+          "is_main": true
+        },
+        {
+          "value": 50,
+          "is_main": true
+        }
+      ]
+    },
+    "installment_value": 0,
+    "total_products": 3,
+    "empty": false,
+    "is_old_checkout": false,
+    "has_agree_terms": false,
+    "pickup_first": false,
+    "url": {
+      "path": "/cart",
+      "desktop_base": "https://www.emag.ro",
+      "mobile_base": "https://www.emag.ro"
+    },
+    "genius": {
+      "upsell": null
+    }
+  },
+  "tokens": "eyJ1c2VyX2lkIjoyNDE2NDM1NTAxMDI1MjcxNjQwLCJsYW5nX2NvZGVfa2V5IjoidzVzUllzT0ZaSG5DdWNLNnc1SENzSHhzSzBIQ2lzTzRJOE9ZSTJcL0R2UWx6UU1PaXdyTVd3NklhdzVKemRNT053b2ZDaXl6Q3JzS1FMeE1FdzdUQ3BpWjllTUszVUJURHZrQmxid2ZEdGszRG1pUkt3cHJEaHNLOUZzTzVKc09wRThLYXdwRUFKVGcyVDhLeEd3VWRYTU84IiwidXVpZCI6IjE3MTgyNjE1MDEtNTA1NjU2MTY1Mi02NTMwOCIsImRpZCI6IjdGN0U5NTUzLTM4RTYtNEYxNS05OTUxLTZCRTg0RjhBNThBRCIsImF1dGhfdG9rZW5fa2V5IjoidzVzUllzT0ZaSG5DdWNLNnc1SENzSHhzSzBIQ2lzTzR3NnZEb0FCR3c0WENnY0tvUnNLalBjSzZBOE93d3EzRGxqUlNFY080dzdqRG1GSmxXTUtMSzhPMGVrc09TY0txV3NPUk1BNXNBc0sydzZYQ2h3ckNpY095d3FoUVpFVENwQjRrRDJsWXc2d1ZSd2ZEc2lYQ21jSzhBOE9UdzRJZlZjT1JhTU83dzZJREE4S3dCUjNEanNPaXc2YkN0c09Fd3JYRHJFOUlHaVRDcjhPS3c0VERrY09udzRMQ284T1h3cUhDdHpOcXdwakRrY09ZUk1LTSIsInVzZXJfa2V5IjoidzVzUllzT0ZaSG5DdWNLNnc1SENzSHhzSzBIQ2lzTzRmc0tsd3EzRHRBRkp3N3Rkd28wRU9zTzVLY0tvTXNPb0RVMTZ3cjluRGNLQ3c1ZkRxTUtydzZIQ3Mxc1NhY0tKZU1LY3dxUVdXOE9wU01LVndvXC9EblZ6RHZCSENoTU9oZThPZU1tdkRsbWRxT2lZelljS0dLUlVCdzdcL0NoUT09In0=",
+  "notifications": {
+    "screen": [
+      {
+        "type": "payment",
+        "key": "payment_notification",
+        "message": "Alege plata cu cardul online și comandă în siguranță"
+      }
+    ]
+  }
+}
